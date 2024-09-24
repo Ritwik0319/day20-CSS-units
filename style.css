@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #051923;
+}
+.container {
+    margin: 0 10% 0 10%;
+}
+#wb {
+    background-image: url(./Assets/web-developer\ banner.jpeg);
+    height: 100vh;
+    width: 100%;
+    background-position-x: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fr {
+    background-image: url(./Assets/fro.jpeg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;   
+}
+#html {
+    background-image: url(./Assets/html.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#css {
+    background-image: url(./Assets/css.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#js {
+    background-image: url(./Assets/js.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#ang {
+    background-image: url(./Assets/angular.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#rec {
+    background-image: url(./Assets/react.webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#bs {
+    background-image: url(./Assets/bootstrap.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#back {
+    background-image: url(./Assets/BackendTechnology\ banner.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#java {
+    background-image: url(./Assets/java.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#phy {
+    background-image: url(./Assets/python.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#rb {
+    background-image: url(./Assets/ruby.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#php {
+    background-image: url(./Assets/php.avif);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#sql {
+    background-image: url(./Assets/sql.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#mern {
+    background-image: url(./Assets/mern.webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#mongo {
+    background-image: url(./Assets/mongodb.webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#expr {
+    background-image: url(./Assets/express.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#rea {
+    background-image: url(./Assets/react.webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#node {
+    background-image: url(./Assets/node.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#mean {
+    background-image: url(./Assets/Mean.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#mong {
+    background-image: url(./Assets/mongodb.webp);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#exp {
+    background-image: url(./Assets/express.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
+#angu {
+    background-image: url(./Assets/angular.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#nod {
+    background-image: url(./Assets/node.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: local;
+}
